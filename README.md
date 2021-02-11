@@ -1,2 +1,2 @@
-# ML_Trading
+### ML_Trading
 The goal of this topic is trying to solve the real world challenges of implementing machine learning based trading strategies including the algorithmic steps from information gathering to market orders. The focus is on how to apply probabilistic machine learning approaches to trading decisions. I consider statistical approaches like linear regression, KNN and regression trees and how to apply them to actual stock trading situations.
